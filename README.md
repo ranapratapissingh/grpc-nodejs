@@ -8,15 +8,14 @@ gRPC also supports many other features such as authentication, bidirectional ste
 
 We will build a simple gRPC Server with node.js that provides services that provide the create, read, update, delete method for Note app. We also will create gRPC node.js Client that calls the method from the gRPC server.
 
-
 ## Create NPM Project and Add Dependencies
 
-	npm install --save grpc
-	npm install --save uuid	
+		npm install --save grpc
+		npm install --save uuid	
 
 
 ## Still look wrong? 
 
 Contact the developer and tell me what you tried to do that didn’t work.
 
-- [Reporting an issue](https://github.com/vickymax/django-test-driven-development/issues/new).
+- [Reporting an issue](https://github.com/ranapratapissingh/grpc-nodejs/issues/new).
